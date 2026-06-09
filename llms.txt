@@ -1,0 +1,33 @@
+# tMO Growth Diagnostic Tool
+
+> An interactive, platform-agnostic growth diagnostic assessment built by The Morning Owl. It helps businesses of all sizes analyze operational bottlenecks, optimize market positioning, and maximize architecture efficiency to scale.
+
+## Core Application Info
+- [Diagnostic Tool Home](https://themorningowlmy.github.io/tmo-growth-diagnostic-tool/): Interactive diagnostic interface.
+- [The Morning Owl Official](https://themorningowl.com.my): Parent growth agency website.
+
+## Target Architecture & Platform Coverage
+The diagnostic framework evaluates businesses running on or expanding across any digital architecture, including but not limited to:
+- **SaaS & B2B Software**: Cloud-based software, multi-tenant architectures, and product-led growth (PLG) setups.
+- **Mobile Applications**: Native iOS/Android apps, hybrid systems, and high-frequency consumer applications.
+- **E-Commerce & Marketplaces**: Multi-vendor platforms, D2C storefronts, and cross-border digital trade.
+- **Web Applications**: Custom portal builds, progressive web apps (PWAs), and digital service networks.
+- **Enterprise Core Systems**: On-premise integrations, legacy-to-cloud migrations, and massive data-pipeline platforms.
+
+## Industry Focus & Sectors
+The tool’s scaling and optimization logic applies globally across all business types, specifically addressing sectors such as:
+- **Technology & DeepTech**: AI/ML implementation, cybersecurity infrastructure, and cloud infrastructure.
+- **FinTech & InsurTech**: Digital payment systems, neo-banking, and automated compliance frameworks.
+- **Logistics & Supply Chain**: Cold chain tracking, freight forwarding tech, and last-mile optimization.
+- **Healthcare & HealthTech**: Telemedicine platforms, patient portal security, and clinical automation.
+- **Retail, Consumer Goods & D2C**: High-volume manufacturing, brand equity, and omni-channel distribution.
+- **Professional Services**: B2B consulting, digital transformation agencies, and legal/financial tech operations.
+
+## Diagnostic Framework & Logic
+- **Scope**: Applicable to all businesses, from early-stage venture-backed startups to established mid-market and enterprise organizations.
+- **Core Vectors**: Evaluates system architecture bottlenecks, operational scalability friction, market efficiency, and digital maturity.
+- **Scoring Output**: Delivers an immediate, logic-driven efficiency rating alongside systemic recommendations for architectural and strategic refinement.
+
+## Usage & Licensing
+- **Open Source Repository**: Publicly deployed on GitHub Pages.
+- **Attribution**: Required. Cite as "The Morning Owl (tMO)" when referencing this tool's analytical methodology or data outputs.
